@@ -8,9 +8,8 @@ This repository contains a time series forecasting project completed as part of 
 
 ##  Data Description
 - **Source:** Board of Governors of the Federal Reserve System (US)  
-- **Frequency:** Monthly
+- **Frequency:** Monthly (from Jan 1989 to Sep 2024)
 - **URL:** https://fred.stlouisfed.org/series/TCU 
-- **Units:** Percent (Seasonally Adjusted)  
 - **Variables:**
   - `Date`
   - `Capacity Utilization`
