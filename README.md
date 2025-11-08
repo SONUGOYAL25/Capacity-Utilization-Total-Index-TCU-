@@ -8,7 +8,8 @@ This repository contains a time series forecasting project completed as part of 
 
 ##  Data Description
 - **Source:** Board of Governors of the Federal Reserve System (US)  
-- **Frequency:** Monthly  
+- **Frequency:** Monthly
+- **URL:** https://fred.stlouisfed.org/series/TCU 
 - **Units:** Percent (Seasonally Adjusted)  
 - **Variables:**
   - `Date`
@@ -43,5 +44,5 @@ This repository contains a time series forecasting project completed as part of 
 ## Author
 **Sonu Goyal**  
  Integrated MSc Statistics
-/ Central University of Rajasthan 
+Central University of Rajasthan 
 
