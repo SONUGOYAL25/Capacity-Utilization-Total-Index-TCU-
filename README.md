@@ -1,7 +1,9 @@
 # Time Series Analysis and Forecasting: Capacity Utilization (1989–2024)
 
 ## 📊 Project Overview
-This project focuses on **time series analysis and forecasting** of the *Total Industry Capacity Utilization Index* for the United States.  
+**Time series analysis and forecasting** of the *Total Industry Capacity Utilization Index* for the United States using R.
+
+This repository contains a time series forecasting project completed as part of my coursework for Integrated MSc Statistics at Central University of Rajasthan.
 
 ---
 
