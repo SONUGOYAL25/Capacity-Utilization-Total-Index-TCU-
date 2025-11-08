@@ -43,6 +43,6 @@ This repository contains a time series forecasting project completed as part of 
 ---
 ## Author
 **Sonu Goyal**  
- Integrated MSc Statistics
-Central University of Rajasthan 
+Integrated MSc Statistics  
+Central University of Rajasthan  
 
